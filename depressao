@@ -1,0 +1,4 @@
+nome1= "Juliano"
+nome2= "Mickael"
+porcentagem = 75
+print(f"calculado que {nome1} e {nome2} estão {porcentagem}% apaixonados")
